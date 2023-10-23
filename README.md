@@ -8,5 +8,5 @@ We evaluate LMs on the [ETHICS dataset](https://github.com/hendrycks/ethics) and
 
 Available Baby LMs:
 * [Zlata-TinyStories](https://huggingface.co/iproskurina/zlata-tinystories) (6-layer GPT-2 pre-trained on [TinyStories corpus](https://huggingface.co/datasets/roneneldan/TinyStories))
-* [Bebeshka](https://huggingface.co/iproskurina/bebeshka) (4-layer RoBERTa pre-trained on a 10M BabyLM corpus)
+* [Bebeshka](https://huggingface.co/iproskurina/bebeshka-v2) (4-layer RoBERTa pre-trained on a 10M BabyLM corpus)
 * [Zlata](https://huggingface.co/iproskurina/zlata) (6-layer GPT-2 pre-trained on a 10M BabyLM corpus)
