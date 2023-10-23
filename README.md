@@ -2,7 +2,7 @@
 This repository contains code for the paper 	
 **Mini Minds: Exploring Bebeshka and Zlata Baby Models** accepted to BabyLM Shared task (CoNLL 2023). 
 
-In this work, we investigate the optimal size of language models minimizing perplexity on BabyLM shared task ([Warstadt et al. (2023)](babylm.github.io)) data and present a small 4-layer RoBERTa and 6-layer GPT-2 pre-trained on a 10M version of the corpus comparable to children's vocabulary.
+In this work, we investigate the optimal size of language models minimizing perplexity on BabyLM shared task ([Warstadt et al. (2023)](https://babylm.github.io/)) data and present a small 4-layer RoBERTa and 6-layer GPT-2 pre-trained on a 10M version of the corpus comparable to children's vocabulary.
 
 We evaluate LMs on the [ETHICS dataset](https://github.com/hendrycks/ethics) and show that small LMs perform on par with LLMs on such tasks as Virtuous judgements. 
 
